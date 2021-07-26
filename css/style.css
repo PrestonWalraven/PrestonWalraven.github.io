@@ -1,0 +1,57 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Consolas, 'Courier New', monospace;
+}
+
+p {
+    color: #4EC9B0;
+}
+
+a {
+    color: #DCDCAA;
+}
+
+li {
+    color: #DCDCAA;
+}
+
+table {
+    border-spacing: 10px;
+}
+
+td {
+    color: #DCDCAA;
+}
+
+th {
+    color: #C586C0;
+}
+
+h1 {
+    color: #9CDCFE;
+}
+
+h3 {
+    color: #4EC9B0;
+}
+
+strong {
+    color: #C586C0;
+}
+
+em {
+    color: #CE9178;
+}
+
+
+/*
+Function Declarations: #DCDCAA
+Type Declarations and References: #4EC9B0
+Control Flow/Special Keywords: #C586C0
+Variable and Parameter Name: #9CDCFE
+Constants and Enums: #4FC1FF
+CSS Property Value/String: #CE9178
+Regex Groups: #CE9178
+Number Literal: #B5CEA8;
+*/
